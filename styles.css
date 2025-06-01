@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+    height: 100vh; /* Ensure the body takes full viewport height */
+    flex-direction: column; /* Stack the header and map vertically */
+  }
+  
+header {
+    text-align: center;
+    padding: 1rem;
+    background-color: skyblue;
+    border-bottom: 1px solid #ddd;
+    width: 100%;
+    margin: 0; /* Remove margin from header */
+    font-family: 'Times New Roman';
+    justify-content: center;
+    align-items: center;
+}
+  
+#map {
+    height: 500px;  /* Set the height for the map */
+    width: 100%;     /* Adjust map width as needed */
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 5px; /* Optional: to make the map corners rounded */
+}
+  
+main {
+    padding: 1rem;
+    width: 80%;  /* Set a width for the main content */
+}
+  
+#spots-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+  
+.spot {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    width: calc(33% - 2rem);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+  
+.spot img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+  
+body, html {
+    height: 100%;
+    overflow: auto;
+}
+  
+#back-button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#back-button:hover {
+    background-color: #45a049;
+}
+
+

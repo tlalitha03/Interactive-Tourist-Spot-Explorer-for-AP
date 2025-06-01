@@ -1,0 +1,126 @@
+{
+    "anantapur": [
+        {
+            "name": "Lepakshi Temple",
+            "description": "A Historical temple with intricate carvings.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Front_side_of_Veerabhadra_Temple%2C_Lepakshi.jpg"
+        },
+        {
+            "name": "Gooty Fort",
+            "description": "A Hilltop Fort With Historical Significance.",
+            "image": "https://s7ap1.scene7.com/is/image/incredibleindia/gooty-fort-anantapur-ap-2-attr-hero?qlt=82&ts=1726744005190"
+        }
+    ],
+    
+    "chittoor": [
+        {
+            "name": "Tirupati Temple",
+            "description": "A Famous Pilgrimage Site.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/1200px-Tirumala_090615.jpg"
+        },
+        {
+            "name": "Horsley Hills",
+            "description": "A Serene hill station.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6Br-m6p4qLmO11GbvYoBJsvZxBb9Edg-eQ&s"
+        }
+    ],
+
+    "eastGodavari": [
+        {
+            "name": "Coringa Wildlife Sanctuary",
+            "description": "A Mangrove forest with diverse wildlife",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Coringa_Wildlife_Sanctuary_1.jpg"
+        },
+        {
+            "name": "Draksharam Temple",
+            "description": "A historic Shiv Temple",
+            "image": "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/m_Kakinada_Draksharamam_temple_1_l_360_640.jpg?im=Resize=(288,162)"
+        }
+    ],
+
+    "guntur": [
+        {
+            "name": "Amaravathi Stupa",
+            "description": "An Ancient Budhist temple",
+            "image": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/01/e34212796cb5525981c7399f5de4b32b_1000x1000.jpg"
+        },
+        {
+            "name": "Kondaveedu Fort",
+            "description": "A hilltop fort with scenic views",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgNDBiFiIZ0XqcLy5RBKrIWlCFXH8z7rzO1g&s"
+        }
+    ],
+
+    "kurnool": [
+        {
+            "name": "Belum Caves",
+            "description": "The Second largest cave system in India",
+            "image": "https://en-media.thebetterindia.com/uploads/2016/08/IMG_4461.jpg"
+        },
+        {
+            "name": "orvakal Rock Gardens",
+            "description": "A Fascinating geological formation",
+            "image": "https://www.mappls.com/place/OMWQ7N_1640675767035_0.jpeg"
+        }
+    ],
+
+    "nellore": [
+        {
+            "name": "Pulicat Lake",
+            "description": "A Serene lake with migratory birds",
+            "image": "https://web.uneecopscloud.com/ffoweb_dev/sites/default/files/styles/flexslider_full/public/2024-02/pulicat_lake.jpg?itok=RPFWwuP4"
+        },
+        {
+            "name": "Udaygiri Fort",
+            "description": "An ancient fort with historical importance",
+            "image": "https://content3.jdmagicbox.com/comp/nellore/d8/9999px861.x861.220316220722.m1d8/catalogue/udayagiri-fort-nellore-tourist-attraction-f9zveaxdqa.jpg"
+        }
+    ],
+
+    "prakasam": [
+        {
+            "name": "Cumbum Lake",
+            "description": "One of the oldest man-made lakes in India",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjPu9i25FJwyDg0nzc3ZBDb01WfDRgwm8eA&s"
+        },
+        {
+            "name": "Chandavaram Stupa",
+            "description": "A Buddhist Site with ancient artifacts",
+            "image": "https://cdn.sanity.io/images/nlpqts3z/production/29df1002c6ebb67f7aaa24ee8e23619309e77c1e-700x394.jpg"
+        }
+    ],
+
+    "sri-potti-sriramulu-nellore": [
+        {
+            "name": "Nellapattu Bird Sanctuary",
+            "description": "A haven for migratory birds",
+            "image": "https://avathioutdoors.gumlet.io/travelGuide/dev/nellore_P1061.jpg"
+        }
+    ],
+
+    "visakhapatnam": [
+        {
+            "name": "RK Beach",
+            "description": "A beautiful beach in vishakapatnam",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupHa8Wu4tItXNopQIPQPsGG1XU9TZVEC0eg&s"
+        },
+        {
+            "name": "Araku Valley",
+            "description": "A scenic valley surrounded by hills",
+            "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2022/05/02172006/Road-to-Araku.jpg"
+        }
+    ],
+
+    "westGodavari": [
+        {
+            "name": "Dindi Resorts",
+            "description": "A scenic backwater retreat",
+            "image": "https://aptourismhotels.in/wp-content/uploads/2023/07/Untitled-design-2023-07-12T161422.015.png"
+        },
+        {
+            "name": "Kolleru Lake",
+            "description": "A large freshwater lake with rich biodiversity",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fqL1DTepO-oWjq5Ewg1WWIdpwRdqjdPUIg&s"
+        }
+    ]
+}
