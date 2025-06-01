@@ -122,5 +122,37 @@
             "description": "A large freshwater lake with rich biodiversity",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fqL1DTepO-oWjq5Ewg1WWIdpwRdqjdPUIg&s"
         }
+    ],
+
+    "anakapalli": [
+        {
+            "name": "Bojjana Konda",
+            "description": "A hill with a temple and panoramic views",
+            "image": "https://th-i.thgim.com/public/migration_catalog/article11243081.ece/alternates/LANDSCAPE_1200/26VZ_BOJJANNAKONDA_BUDDHIST_MONUMENT.1"
+        }
+    ],
+
+    "srikakulam": [
+        {
+            "name": "Arasavilli Suryanarayana Temple",
+            "description":"A significant Hindu temple",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/aa/98/cb/temple-gate.jpg?w=1200&h=-1&s=1"
+        }
+    ],
+
+    "vizianagaram": [
+        {
+            "name": "Vizianagaram Fort",
+            "description": "Vizianagaram fort is an early 18th-century fort in the city of Vizianagaram in northeastern Andhra Pradesh, South India.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKDkUuM-Ue3_WMJYRIYV3hFOYj-Oh1zyhCQ&s"
+        }
+    ],
+
+    "vijayawada": [
+        {
+            "name": "Prakasam Barrage",
+            "description": "The Barrage provides views of the lake.",
+            "image": "https://www.seawatersports.com/images/places/prakasam-barrage.png"
+        }
     ]
 }

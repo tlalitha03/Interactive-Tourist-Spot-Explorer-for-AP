@@ -18,7 +18,11 @@ const districts = {
   nellore: { coords: [14.44, 79.99], name: 'Nellore' },
   prakasam: { coords: [15.33, 79.63], name: 'Prakasam' },
   visakhapatnam: { coords: [17.68, 83.21], name: 'Visakhapatnam' },
-  westGodavari: { coords: [16.88, 81.56], name: 'West Godavari' }
+  westGodavari: { coords: [16.88, 81.56], name: 'West Godavari' },
+  anakapalli: { coords: [17.68, 83.03], name: 'Anakapalli' },
+  srikakulam: { coords: [18.2969, 83.8970], name: 'Srikakulam' },
+  vizianagaram: { coords: [18.1164, 83.3956], name: 'Vizianagaram' },
+  vijayawada: { coords: [16.5062, 80.6480], name: 'Vijayawada' }
 };
 
 // Add markers for districts
